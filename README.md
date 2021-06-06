@@ -18,7 +18,7 @@
 
 Hi, I'm Eric Santos, this is a little bit of my git repository. 
 
-I'm a Front-end React Native and Web Developer from Brazil - Ceará 💚, **19 years old** 👶🏻 and **5 years of coding** 🧐. 
+I'm a Front-end React Native and Web Developer from Brazil - Ceará 💚, **20 years old** 👶🏻 and **5 years of coding** 🧐. 
 
 ----
 
