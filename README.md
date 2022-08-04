@@ -18,7 +18,7 @@
 
 Hi, I'm Eric Santos, this is a little bit of my git repository. 
 
-I'm a Front-end React Native and Web Developer from Brazil - Ceará 💚, **20 years old** 👶🏻 and **5 years of coding** 🧐. 
+I'm a Front-end React Native and Web Developer from Brazil - Ceará 💚, **21 years old** 👶. 
 
 ----
 
@@ -29,6 +29,7 @@ I'm a Front-end React Native and Web Developer from Brazil - Ceará 💚, **20 y
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
