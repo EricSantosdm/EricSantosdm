@@ -38,7 +38,3 @@ I'm a Front-end ❤️ React Native and Web Developer from Brazil - Ceará 💚,
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
-
-#### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"> View my stats on Github 
-   
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericdm094&show_icons=true)
