@@ -22,7 +22,7 @@ I'm a Front-end ❤️ React Native and Web Developer from Brazil - Ceará 💚,
 
 ----
 **Certifications**
-AWS Academy Graduate - AWS Academy Cloud Architecting
+AWS Academy Graduate - AWS Academy Cloud Architecting</br>
 <code><img height="80" src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png"></code>
 
 ----
