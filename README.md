@@ -21,6 +21,11 @@ Hi, I'm Eric Santos, this is a little bit of my git repository.
 I'm a Front-end ❤️ React Native and Web Developer from Brazil - Ceará 💚, **21 years old** 👶. 
 
 ----
+**Certifications**
+AWS Academy Graduate - AWS Academy Cloud Architecting
+<code><img height="25" src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png"></code>
+
+----
 
 **Languages and Tools:**  
 
