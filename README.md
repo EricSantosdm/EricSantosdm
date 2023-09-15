@@ -16,7 +16,7 @@
 
 ---- 
 
-Hi, I'm Eric Santos, this is a little bit of my git repository. 
+Hi, I'm Eric Santos, this is a little bit of my git <a target="_blank" href="https://www.credly.com/badges/088758e4-d2da-4492-abd1-ee5281b65895/public_url">repository.</a>
 
 I'm a Front-end ❤️ React Native and Web Developer from Brazil - Ceará 💚, **22 years old** 👶. 
 
